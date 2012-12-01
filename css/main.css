@@ -81,7 +81,6 @@ textarea {
 /* ==========================================================================
    Chrome Frame prompt
    ========================================================================== */
-
 .chromeframe {
     margin: 0.2em 0;
     background: #ccc;
@@ -92,10 +91,70 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    color: #111;
+    background-color: white;
+    font-size: 15px;
+    font-family: "Open Sans", Helvetica, arial, clean, sans-serif;
+    letter-spacing: 0;
+    line-height: 22px;
+}
 
+.content {
+    text-align: justify;
+    width: 42em;
+    margin: 3em auto 2em auto;
+}
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
 
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 2em;
+}
 
+h2 {
+    font-size: 1.35em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+a {
+    color: #00a;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: #a0a;
+}
+
+ul.posts {
+    list-style-type: none;
+    margin-bottom: 2em;
+    padding-left: 0;
+}
+
+ul.posts li {
+    line-height: 1.75em;
+}
+
+ul.posts span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+}
 
 
 

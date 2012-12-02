@@ -1,0 +1,60 @@
+body {
+    font-family: "Open Sans", Helvetica, arial, clean, sans-serif;
+    margin-top: 20px;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 1.3em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+a {
+    color: #00a;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #a0a;
+}
+
+ul.posts {
+    list-style-type: none;
+    margin-bottom: 2em;
+    padding-left: 0;
+}
+
+ul.posts li {
+    line-height: 1.75em;
+}
+
+ul.posts span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+}

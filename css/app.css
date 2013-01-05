@@ -1,8 +1,8 @@
 body {
     font-family: "Open Sans", Helvetica, arial, clean, sans-serif;
     margin-top: 20px;
-    color: #bbb;
-    background: #1c1d22;
+    color: #93a1a1;
+    background: #002b36;
 }
 
 ul,
@@ -26,16 +26,18 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.35em;
+    font-weight: bold;
 }
 
 h3 {
-    font-size: 1.3em;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 a,
 a:hover {
-    color: #1d7cbe;
+    color: #268bd2;
 }
 
 a:hover,
@@ -58,21 +60,20 @@ ul.posts li {
 }
 
 ul.posts span {
-    color: #555;
-    /*font-family: Monaco, "Courier New", monospace;*/
+    color: #859900;
     font-size: 84%;
     font-weight: bold;
 }
 
 .post img,
 .post iframe {
-    border: solid 2px #222;
+    border: solid 2px #073642;
 }
 
 blockquote {
-    border-left: solid 1px #666;
+    border-left: solid 1px #657b83;
 }
 
 blockquote p {
-    color: #aaa;
+    color: #657b83;
 }

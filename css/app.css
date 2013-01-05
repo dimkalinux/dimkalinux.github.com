@@ -1,7 +1,8 @@
 body {
     font-family: "Open Sans", Helvetica, arial, clean, sans-serif;
     margin-top: 20px;
-    color: #000;
+    color: #bbb;
+    background: #1c1d22;
 }
 
 ul,
@@ -16,10 +17,11 @@ h4,
 h5,
 h6 {
     font-weight: normal;
+    color: #fff;
 }
 
 h1 {
-    font-size: 1.7em;
+    font-size: 1.8em;
     margin-bottom: 1.4em;
 }
 
@@ -32,16 +34,16 @@ h3 {
 }
 
 a {
-    color: #00a;
+    color: #1d7cbe;
 }
 
-a:hover {
-    color: black;
+a:hover,
+a:visited:hover {
     text-decoration: underline;
 }
 
 a:visited {
-    color: #a0a;
+    color: #888;
 }
 
 ul.posts {
@@ -55,7 +57,21 @@ ul.posts li {
 }
 
 ul.posts span {
+    color: #555;
+    /*font-family: Monaco, "Courier New", monospace;*/
+    font-size: 84%;
+    font-weight: bold;
+}
+
+.post img,
+.post iframe {
+    border: solid 2px #222;
+}
+
+blockquote {
+    border-left: solid 1px #666;
+}
+
+blockquote p {
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
 }

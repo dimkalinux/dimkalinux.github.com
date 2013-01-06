@@ -1,0 +1,79 @@
+body {
+    font-family: "Open Sans", Helvetica, arial, clean, sans-serif;
+    margin-top: 20px;
+    color: #000;
+    background: #fff;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    color: #000;
+}
+
+h1 {
+    font-size: 1.7em;
+    margin-bottom: 1.4em;
+}
+
+h2 {
+    font-size: 1.35em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+a,
+a:hover {
+    color: #C62627;
+}
+
+a:hover,
+a:visited:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #777;
+}
+
+ul.posts {
+    list-style-type: none;
+    margin-bottom: 2em;
+    padding-left: 0;
+}
+
+ul.posts li {
+    line-height: 1.75em;
+}
+
+ul.posts span {
+    color: #222;
+    font-size: 84%;
+    font-weight: bold;
+}
+
+.post img,
+.post iframe {
+    border: solid 1px #073642;
+}
+
+blockquote {
+    border-left: solid 1px #666;
+}
+
+blockquote p {
+    color: #666;
+}

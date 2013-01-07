@@ -3,6 +3,10 @@ layout: post
 title: Интересные ссылки (не только про Мак)
 ---
 
+[10 лет браузеру Сафари](http://donmelton.com/2013/01/07/macworld-2003-keynote/).<br>
+
+[The BBC Sport iPhone App](http://www.bbc.co.uk/blogs/bbcinternet/2013/01/sport_app.html?postId=114875291).<br>BBC выпустила программу для айфона раньше, чем для андроида. Продолжение истории в комментариях к статье на сайте BBC.
+
 [Стивен Фрай о граммар-наци](http://www.youtube.com/watch?v=J7E-aoXLZGY&feature=player_embedded).<br>Очень интересно. Доступны русские и английские субтитры.
 
 [Интервью с Дэвидом Келли](http://www.cbsnews.com/video/watch/?id=50138327n).<br>Дэвид Келли, CEO компании IDEO, мирового лидера в сфере дизайна. О дизайне и Эпл.

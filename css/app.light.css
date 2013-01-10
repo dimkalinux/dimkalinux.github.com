@@ -77,3 +77,12 @@ blockquote {
 blockquote p {
     color: #666;
 }
+
+.desktop {
+    margin-bottom: 4em;
+}
+
+.desktop img {
+    display: block;
+    margin-top: .5em;
+}

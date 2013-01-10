@@ -4,6 +4,6 @@ It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) in
 # License
 The following directories and their contents are Copyright Dimkalinux. You may not reuse anything therein without my permission:
 * _posts/
-* images/
+* img/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.

@@ -23,13 +23,13 @@ title: Браузеры и память
 Тестирование производилось в Mac OS X 10.6.
 
 ### Список ссылок
-* http://clck.ru/4b8xa
-* http://clck.ru/4b8vY
-* http://clck.ru/0IlJ
-* http://clck.ru/0uUv
-* http://clck.ru/UW
-* http://clck.ru/4b8wa
-* http://clck.ru/4b8wm
-* http://clck.ru/4b8ww
-* http://clck.ru/qMB
-* http://clck.ru/58ZZ
+* [http://clck.ru/4b8xa](http://clck.ru/4b8xa)
+* [http://clck.ru/4b8vY](http://clck.ru/4b8vY)
+* [http://clck.ru/0IlJ](http://clck.ru/0IlJ)
+* [http://clck.ru/0uUv](http://clck.ru/0uUv)
+* [http://clck.ru/UW](http://clck.ru/UW)
+* [http://clck.ru/4b8wa](http://clck.ru/4b8wa)
+* [http://clck.ru/4b8wm](http://clck.ru/4b8wm)
+* [http://clck.ru/4b8ww](http://clck.ru/4b8ww)
+* [http://clck.ru/qMB](http://clck.ru/qMB)
+* [http://clck.ru/58ZZ](http://clck.ru/58ZZ)
